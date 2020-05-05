@@ -14,6 +14,10 @@ Ensure that the function can deal with a variable number of inputs
 Ensure that the function executed at each time step is the same.
 
 ![](https://miro.medium.com/max/1400/1*I2TsC5UDAPykJni772v9cQ.png)
+
+![](https://miro.medium.com/max/1196/1*6XdfpJS0RNuy9UP3fzy2Lw.png)
+
+![](https://miro.medium.com/max/1346/1*b71s9DUnorgeevXupvK3fA.png)
 ## Resource :
 
 https://towardsdatascience.com/introduction-to-sequence-modeling-problems-665817b7e583
